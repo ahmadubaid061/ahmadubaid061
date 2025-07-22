@@ -16,10 +16,10 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 -  C++
 -  Responsive Web Design
 
-### GitHub Analytics 📊
+### GitHub Stats 📊
 |                     |                     |
 |---------------------|---------------------|
-|<center>![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)</center> |
+| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10)</center> | <center>![Ubaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=10)</center> |
 
 ### Lets connect 🌐
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
@@ -29,7 +29,4 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadubaid061/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=10005843419655)
 
-### GitHub Stats 📊
-|                     |                     |
-|---------------------|---------------------|
-| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)</center> |
+
