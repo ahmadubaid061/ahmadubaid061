@@ -16,8 +16,10 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
    [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
    [![Responsive Design](https://img.shields.io/badge/-Responsive_Design-000000?style=for-the-badge&logo=responsive-design)](https://www.w3schools.com/css/css_rwd_intro.asp)
    [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+</div>
+   
 
- </div>
+ 
 
 ### 📈 GitHub Analytics
 <!-- Enhanced Stats Cards Layout -->
