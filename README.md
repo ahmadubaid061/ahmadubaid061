@@ -1,4 +1,4 @@
-<image-card alt="Cover Banner" src="cover.png" ></image-card>
+![Ubaid Ahmad Banner](cover.png)
 
 # Hi! 👋 I am Ubaid Ahmad 
 ## Web Development Student | JavaScript Intern |
