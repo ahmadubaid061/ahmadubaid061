@@ -30,6 +30,6 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=10005843419655)
 
 ### GitHub Stats 📊
-<div align="center">
-![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)
-</div>
+|                     |                     |
+|---------------------|---------------------|
+| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)</center> | <center>![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=8)</center> |
