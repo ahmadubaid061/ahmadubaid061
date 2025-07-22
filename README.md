@@ -1,6 +1,8 @@
 ![Ubaid Ahmad Banner](cover.png)
+<div align="center">
+  # Hi! 👋 I am Ubaid Ahmad
+</div>
 
-# <center>Hi! 👋 I am Ubaid Ahmad </center>
 ### <center>Computer Science Student | Front-End Developer |</center>
 
 
