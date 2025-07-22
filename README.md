@@ -25,9 +25,10 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 
 ---
 ### GitHub Stats 📊
-|                     |                     |
-|---------------------|---------------------|
-| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10&cache_seconds=3600)</center> | <center>![Ubaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=10&cache_seconds=3600)</center> |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10&cache_seconds=3600"/>
+</div>
+
 
 ## 📜 **Career Timeline**
 
@@ -40,17 +41,34 @@ gantt
     section Education
     Matriculation (SSC) :a1, 2018-03, 2020-06
     Intermediate (HSSC) :a2, after a1, 2022-10
-    BS Artificial Intelligence :active, a3, 2024-02, 2028-02
+    BS Computer Science :active, a3, 2024-02, 2028-02
     Web Development course :a4, 2025-03,2025-6
     
 ```
 
-### Lets connect 🌐
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadubaid061)
- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadubaidedu@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923428994095)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadubaid061/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=10005843419655)
+### 📫 Let's Connect
+<!-- Animated Social Badges -->
+<p align="center">
+  <a href="mailto:ahmadubaidedu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/ubaid-ahmad061">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100058434196552">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/ahmadubaid061/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+<div align="center">
+  <a href="https://github.com/ahmadubaid061/js-intern" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_Code-30+_Repos-black?style=flat&logo=github" alt="GitHub">
+  </a>
+  
+</div>
+
+---
 
 
