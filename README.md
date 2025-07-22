@@ -16,10 +16,34 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
  [![Responsive Design](https://img.shields.io/badge/-Responsive_Design-000000?style=for-the-badge&logo=responsive-design)](https://www.w3schools.com/css/css_rwd_intro.asp)
  [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
+### 📈 GitHub Analytics
+<!-- Enhanced Stats Cards Layout -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
 ### GitHub Stats 📊
 |                     |                     |
 |---------------------|---------------------|
 | <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10&cache_seconds=3600)</center> | <center>![Ubaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=10&cache_seconds=3600)</center> |
+
+## 📜 **Career Timeline**
+
+```mermaid
+gantt
+    title Professional Timeline
+    dateFormat  YYYY-MM
+    axisFormat %Y
+    
+    section Education
+    Matriculation (SSC) :a1, 2018-03, 2020-06
+    Intermediate (HSSC) :a2, after a1, 2022-10
+    BS Artificial Intelligence :active, a3, 2024-02, 2028-02
+    Web Development course :a4, 2025-03,2025-6
+    
+```
 
 ### Lets connect 🌐
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
