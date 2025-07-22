@@ -17,9 +17,9 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 -  Responsive Web Design
 
 ### GitHub Analytics 📊
-<div align="center">
-![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=8)
-</div>
+|                     |                     |
+|---------------------|---------------------|
+ <center>![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=8)</center> 
 
 ### Lets connect 🌐
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
@@ -32,4 +32,4 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 ### GitHub Stats 📊
 |                     |                     |
 |---------------------|---------------------|
-| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)</center> | <center>![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=8)</center> |
+| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula)</center> |
