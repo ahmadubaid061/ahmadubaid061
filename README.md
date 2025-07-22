@@ -14,7 +14,10 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 -  C++
 -  Responsive Web Design
 
-### Socials 🌐
+### GitHub Analytics 📊
+![Ubaid's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=8)
+
+### Lets connect 🌐
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadubaid061)
  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadubaidedu@gmail.com)
