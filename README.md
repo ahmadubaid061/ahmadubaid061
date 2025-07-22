@@ -44,11 +44,12 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 </div>
 
 ---
+<!-- 
 ### GitHub Stats 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10&cache_seconds=3600"/>
 </div>
-
+-->
 
 ## 📜 **Career Timeline**
 
