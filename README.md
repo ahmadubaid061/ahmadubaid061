@@ -1,7 +1,7 @@
 ![Ubaid Ahmad Banner](cover.png)
 
 # <center>Hi! 👋 I am Ubaid Ahmad </center>
-## <center>Web Development Student | JavaScript Intern |</center>
+### <center>Computer Science Student | Front-End Developer |</center>
 
 
 ### About Me 
