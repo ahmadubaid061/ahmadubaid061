@@ -1,3 +1,5 @@
+<image-card alt="Cover Banner" src="cover.png" ></image-card>
+
 # Hi! 👋 I am Ubaid Ahmad 
 ## Web Development Student | JavaScript Intern |
 
