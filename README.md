@@ -1,16 +1,39 @@
-## Hi there 👋
+ ```markdown
+Hi there 👋 I'm Ubaid Ahmad
 
-<!--
-**ahmadubaid061/ahmadubaid061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Development Student | JavaScript Intern | Future Full-Stack Dev
 
-Here are some ideas to get you started:
+Hello, I’m a Web Development student pursuing a BS in Computer Science. I build clean, responsive, user-friendly websites using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS, JavaScript  
+- React.js & DOM Manipulation  
+- C++  
+- Responsive Web Design  
+
+I enjoy turning ideas into digital experiences and continuously improving my skills.  
+My goal is to become a skilled full-stack developer and contribute to meaningful projects.
+
+---
+
+🚀 Featured Projects
+
+- 🌐 [My Portfolio](https://ahmadubaid061.github.io/my_portfolio/)  
+  A responsive static site showcasing my web development projects and skills. Optimized for desktop & mobile with CSS media queries.
+
+- 🛒 [Gull Sports - E-commerce Website](https://ahmadubaid061.github.io/E-commerse/)  
+  A responsive e-commerce website for sports equipment built with HTML5, CSS, and JavaScript. Features product showcase, search, cart, and contact form.
+
+---
+
+📫 Contact Me
+
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadubaidedu@gmail.com)
+[11:05 pm, 22/07/2025] ChatGPT: - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadubaid061)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
+
+---
+
+📊 GitHub Stats
+
+![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=github_dark)
+```
