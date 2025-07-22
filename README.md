@@ -4,8 +4,6 @@
 
 ### About Me 
 Hello, I’m a Web Development student pursuing a BS in Computer Science. I build clean, responsive, user-friendly websites.
-
-
 I enjoy turning ideas into digital experiences and continuously improving my skills. My goal is to become a skilled full-stack developer and contribute to meaningful projects.
 
 ### Skills 💻
@@ -20,3 +18,6 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmadubaid061)
  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadubaidedu@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923428994095)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadubaid061/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=10005843419655)
