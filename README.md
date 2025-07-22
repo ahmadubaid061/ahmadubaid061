@@ -19,7 +19,7 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 ### GitHub Stats 📊
 |                     |                     |
 |---------------------|---------------------|
-| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10)</center> | <center>![Ubaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=10)</center> |
+| <center>![Ubaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=dracula&include_all_commits=true&langs_count=10&cache_seconds=3600)</center> | <center>![Ubaid's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=dracula&langs_count=10&cache_seconds=3600)</center> |
 
 ### Lets connect 🌐
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ubaid061)
