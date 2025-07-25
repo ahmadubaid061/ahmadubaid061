@@ -68,8 +68,11 @@ gantt
     
 
     section Short-Courses
-    Web Development course :a4, 2025-03,2025-6
-    Javascript Internship  :active, a5,2025-06,2025-09
+    Search Engine Optimization:a4, 2024-06,2024-10
+    Web Development course :a5, 2025-03,2025-6
+
+    section Internship
+    Js-intern  :active, a6,2025-06,2025-09
     
 ```
 
