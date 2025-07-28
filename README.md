@@ -1,7 +1,7 @@
 ![Ubaid Ahmad Banner](github.png)
 <!-- Typing Animation Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Front-End+Developer;Designing+User-Focused+Sites" alt="Animated typing of my skills and interests" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Front-End+Developer;" alt="Typing Animation" />
 </p>
 
 
