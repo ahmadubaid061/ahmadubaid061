@@ -80,9 +80,8 @@ gantt
 ### 📫 Let's Connect
 <!-- Animated Social Badges -->
 <p align="center">
-  <a href="mailto:ahmadubaidedu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadubaidedu@gmail.com)
+
   <a href="https://www.linkedin.com/in/ubaid-ahmad061">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
