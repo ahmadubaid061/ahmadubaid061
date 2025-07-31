@@ -70,6 +70,7 @@ gantt
     section Short-Courses
     Search Engine Optimization:a4, 2024-06,2024-10
     Web Development course :a5, 2025-03,2025-6
+    Wordpress :active, a7,2025-08,2025-11
 
     section Internship
     Js-intern  :active, a6,2025-06,2025-09
