@@ -100,12 +100,7 @@ gantt
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </a>
 </p>
-<div align="center">
-  <a href="https://github.com/ahmadubaid061/js-intern" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Code-15+_Repos-black?style=flat&logo=github" alt="GitHub">
-  </a>
-  
-</div>
+
 
 ---
 
