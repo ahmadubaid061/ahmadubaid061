@@ -74,7 +74,8 @@ gantt
 
     section Internship
     Js-intern  :a6,2025-06,2025-09
-    Web-Developer:active, a7,2025-12
+    Web-Developer :active, a7, 2025-12, 2026-06
+
     
 ```
 
