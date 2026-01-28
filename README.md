@@ -70,11 +70,12 @@ gantt
     section Short-Courses
     Search Engine Optimization:a4, 2024-06,2024-10
     Web Development :a5, 2025-03,2025-07
+Web Development :active,a6, 2026-02,2026-07
     
 
     section Internship
-    Js-intern  :a6,2025-06,2025-09
-    Web-Developer :active, a7, 2025-12, 2026-06
+    Js-intern  :a7,2025-06,2025-09
+    Web-Developer :a8, 2025-12, 2026-02
 
     
 ```
