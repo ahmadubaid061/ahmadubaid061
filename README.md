@@ -34,10 +34,17 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
  
 
 ### 📈 GitHub Analytics
-<!-- Enhanced Stats Cards Layout -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ahmadubaid061&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <!-- Stats Cards -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadubaid061&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadubaid061&theme=dracula" />
+  <br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadubaid061&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadubaid061&theme=dracula&utcOffset=8" />
+  <br/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=ahmadubaid061&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 
