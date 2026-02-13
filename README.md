@@ -36,8 +36,8 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
 ### 📈 GitHub Analytics
 <!-- Enhanced Stats Cards Layout -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadubaid061&show_icons=true&theme=default&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadubaid061&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ahmadubaid061&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 
