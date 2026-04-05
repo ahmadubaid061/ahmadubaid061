@@ -77,6 +77,7 @@ gantt
     Search Engine Optimization:a4, 2024-06,2024-10
     Web Development :a5, 2025-03,2025-07
     Advance Python         :active,a6, 2026-02,2026-07
+    Django python          :active,a8, 2026-04,2026-05
     
 
     section Internship
