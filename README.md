@@ -105,19 +105,13 @@ gantt
   <a href="https://www.linkedin.com/in/ubaid-ahmad061">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://web.facebook.com/profile.php?id=100058434196552">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/ahmadubaid061/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-<a href="mailto:ahmadubaidedu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
+  
  <a href="https://wa.me/923428994095">
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </a>
+</p>
+<p align="center">
+Gmail : ahmadubaidedu@gmail.com
 </p>
 
 
