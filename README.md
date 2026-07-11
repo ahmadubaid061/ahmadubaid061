@@ -47,27 +47,27 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/-JavaScript-0D1B2A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/-Python-0D1B2A?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/-C%2B%2B-0D1B2A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/-HTML5-0D1B2A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/-CSS3-0D1B2A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 **Backend & Frameworks**
 <br/>
-<img src="https://img.shields.io/badge/-Node.js-0D1B2A?style=for-the-badge&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/-Express.js-0D1B2A?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-0D1B2A?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-Django-0D1B2A?style=for-the-badge&logo=django&logoColor=092E20" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 </td>
 </tr>
@@ -90,9 +90,7 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 
 <img src="https://streak-stats.demolab.com/?user=ahmadubaid061&theme=dracula&hide_border=true&background=0D1B2A" alt="GitHub Streak"/>
 
-<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadubaid061&theme=react-dark&bg_color=0D1B2A&color=00D4FF&line=00D4FF&point=FFFFFF&hide_border=true" width="95%"/>
 
 </div>
 
@@ -129,7 +127,7 @@ gantt
 
 <div align="center">
 
-**Currently learning:** ![Express](https://img.shields.io/badge/Express.js-0D1B2A?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-0D1B2A?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Advanced_Python-0D1B2A?style=flat-square&logo=python&logoColor=3776AB)
+**Currently learning:** ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
@@ -151,7 +149,6 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 <a href="https://wa.me/923428994095">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
 
 </div>
 
