@@ -1,23 +1,14 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
-<!-- Animated Gradient Background -->
+<!-- GIF Background with Gradient Overlay -->
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 25px; background: linear-gradient(270deg, #ff6b6b, #4ecdc4, #45b7d1, #96c93d, #ff6b6b); background-size: 300% 300%; animation: gradientShift 6s ease-in-out infinite; border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" alt="Typing Animation" />
       </td>
     </tr>
   </table>
 </p>
-
-<!-- Add this CSS for animation (if your platform supports it) -->
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 
 
