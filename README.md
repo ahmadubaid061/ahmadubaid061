@@ -1,15 +1,17 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=220&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2C5364,100:0F2027&height=100&section=footer"/>
+<table>
+<tr><td>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1B2A,100:0D1B2A&height=70&section=header" width="100%"/>
+</td></tr>
+<tr><td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&background=0D1B2A&center=true&vCenter=true&width=700&height=90&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" />
+</td></tr>
+<tr><td>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1B2A,100:0D1B2A&height=70&section=footer" width="100%"/>
+</td></tr>
+</table>
 
 </div>
 
