@@ -1,6 +1,14 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=008080&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
+  <table>
+    <tr>
+      <td align="center" style="padding: 0; background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); border-radius: 30px; box-shadow: 0 20px 80px rgba(0,0,0,0.6);">
+        <div style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); padding: 30px 50px; border-radius: 30px; backdrop-filter: blur(10px);">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=550&lines=🚀+BS+Computer+Science+Student;💻+Website+Developer;✨+Building+User-Friendly+Sites;📚+Node.js+%7C+Express.js+Learner;🎯+Full-Stack+Developer+in+Progress" alt="Typing Animation" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
