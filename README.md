@@ -10,18 +10,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" />
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/ubaid-ahmad061">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=00D4FF&labelColor=0D1B2A" alt="LinkedIn"/>
-</a>
-<a href="mailto:ahmadubaidedu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1B2A?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=0D1B2A" alt="Gmail"/>
-</a>
-<a href="https://wa.me/923428994095">
-  <img src="https://img.shields.io/badge/WhatsApp-0D1B2A?style=for-the-badge&logo=whatsapp&logoColor=00D4FF&labelColor=0D1B2A" alt="WhatsApp"/>
-</a>
-
 </div>
 
 <br/>
@@ -163,9 +151,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 <a href="https://wa.me/923428994095">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="mailto:ahmadubaidedu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 
 </div>
 
