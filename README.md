@@ -95,13 +95,11 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 
 <div align="center">
 
-> 🚧 Pinned repositories go here — pin your best 3–4 projects from your GitHub profile settings and they will automatically render as cards below this line.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadubaid061&repo=REPLACE_WITH_REPO_NAME&theme=dracula&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadubaid061&repo=Advance_python&theme=dracula&hide_border=true" width="48%"/>
 
 </div>
 
-<sub>Replace <code>REPLACE_WITH_REPO_NAME</code> with your actual repository name, or add more pin cards for additional projects.</sub>
 
 ---
 
