@@ -1,15 +1,24 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
-<!-- Animated Border Gradient -->
+<!-- SVG Pattern Overlay -->
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 4px; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.4); animation: rotateBorder 4s linear infinite;">
-        <div style="background: #1a1a2e; border-radius: 26px; padding: 20px 40px;">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+      </linearGradient>
+      <pattern id="pattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+        <circle cx="20" cy="20" r="1.5" fill="#4ecdc4" opacity="0.3"/>
+      </pattern>
+    </defs>
+    <rect width="100%" height="120" fill="url(#grad)"/>
+    <rect width="100%" height="120" fill="url(#pattern)"/>
+    <foreignObject x="0" y="0" width="100%" height="120">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; justify-content:center; align-items:center; height:100%;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
+      </div>
+    </foreignObject>
+  </svg>
 </p>
 
 
