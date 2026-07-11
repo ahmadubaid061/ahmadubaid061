@@ -1,15 +1,16 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
-<!-- GIF Background with Gradient Overlay -->
+<!-- Full Banner Container with Gradient -->
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" alt="Typing Animation" />
+      <td align="center" style="padding: 0; width: 100%; height: 200px; background: linear-gradient(135deg, #0c0c1d 0%, #1a1a3e 25%, #2d1b69 50%, #1a1a3e 75%, #0c0c1d 100%); border-radius: 20px; box-shadow: 0 15px 50px rgba(0,0,0,0.5);">
+        <div style="display: flex; justify-content: center; align-items: center; height: 200px; width: 100%;">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" alt="Typing Animation" />
+        </div>
       </td>
     </tr>
   </table>
 </p>
-
 
 
 ### About Me 
