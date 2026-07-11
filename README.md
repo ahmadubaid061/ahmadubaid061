@@ -1,22 +1,17 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
-<!-- Glassmorphism Effect Banner -->
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 0; width: 100%; height: 200px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; box-shadow: 0 15px 50px rgba(0,0,0,0.5); position: relative; overflow: hidden;">
-        <!-- Decorative elements -->
-        <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(78, 205, 196, 0.1), transparent); border-radius: 50%;"></div>
-        <div style="position: absolute; bottom: -80px; left: -30px; width: 250px; height: 250px; background: radial-gradient(circle, rgba(114, 9, 183, 0.1), transparent); border-radius: 50%;"></div>
-        <div style="position: absolute; top: 30px; left: 20%; width: 100px; height: 100px; background: radial-gradient(circle, rgba(247, 37, 133, 0.05), transparent); border-radius: 50%;"></div>
-        <!-- Content -->
-        <div style="display: flex; justify-content: center; align-items: center; height: 200px; width: 100%; position: relative; z-index: 2; background: rgba(255,255,255,0.03); backdrop-filter: blur(10px);">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" alt="Typing Animation" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2C5364&height=220&section=header&text=&fontSize=0" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2C5364,100:0F2027&height=100&section=footer"/>
+
+</div>
 
 ### About Me 
 Hello, I’m a Web Development student pursuing a BS in Computer Science. I build clean, responsive, user-friendly websites.
