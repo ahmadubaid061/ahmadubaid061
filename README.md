@@ -91,7 +91,7 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 <!--  GITHUB STATISTICS                                                  -->
 <!-- ================================================================== -->
 
-## <img src="https://img.shields.io/badge/-04-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/-03-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> GitHub Analytics
 
 <div align="center">
 
@@ -114,7 +114,7 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 <!--  CAREER TIMELINE & CURRENT LEARNING                                 -->
 <!-- ================================================================== -->
 
-## <img src="https://img.shields.io/badge/-05-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Career Timeline
+## <img src="https://img.shields.io/badge/-04-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Career Timeline
 
 ```mermaid
 gantt
@@ -151,7 +151,7 @@ gantt
 <!--  CONTACT                                                            -->
 <!-- ================================================================== -->
 
-## <img src="https://img.shields.io/badge/-06-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Let's Connect
+## <img src="https://img.shields.io/badge/-05-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Let's Connect
 
 <div align="center">
 
