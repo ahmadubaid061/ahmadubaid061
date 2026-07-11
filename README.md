@@ -96,7 +96,7 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadubaid061&repo=Advance_python&theme=dracula&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadubaid061&repo=Advance_Python&theme=dracula&hide_border=true" width="48%"/>
 
 </div>
 
