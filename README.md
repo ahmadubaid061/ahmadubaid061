@@ -1,10 +1,11 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
+<!-- Animated Border Gradient -->
 <p align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 0; background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); border-radius: 30px; box-shadow: 0 20px 80px rgba(0,0,0,0.6);">
-        <div style="background: linear-gradient(135deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02)); padding: 30px 50px; border-radius: 30px; backdrop-filter: blur(10px);">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=550&lines=🚀+BS+Computer+Science+Student;💻+Website+Developer;✨+Building+User-Friendly+Sites;📚+Node.js+%7C+Express.js+Learner;🎯+Full-Stack+Developer+in+Progress" alt="Typing Animation" />
+      <td align="center" style="padding: 4px; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.4); animation: rotateBorder 4s linear infinite;">
+        <div style="background: #1a1a2e; border-radius: 26px; padding: 20px 40px;">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
         </div>
       </td>
     </tr>
