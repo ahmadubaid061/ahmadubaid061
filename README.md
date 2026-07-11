@@ -1,25 +1,23 @@
 <!-- ![Ubaid Ahmad Banner](my_banner.png) -->
-<!-- SVG Pattern Overlay -->
+<!-- Animated Gradient Background -->
 <p align="center">
-  <svg width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
-      </linearGradient>
-      <pattern id="pattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-        <circle cx="20" cy="20" r="1.5" fill="#4ecdc4" opacity="0.3"/>
-      </pattern>
-    </defs>
-    <rect width="100%" height="120" fill="url(#grad)"/>
-    <rect width="100%" height="120" fill="url(#pattern)"/>
-    <foreignObject x="0" y="0" width="100%" height="120">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="display:flex; justify-content:center; align-items:center; height:100%;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 25px; background: linear-gradient(270deg, #ff6b6b, #4ecdc4, #45b7d1, #96c93d, #ff6b6b); background-size: 300% 300%; animation: gradientShift 6s ease-in-out infinite; border-radius: 30px; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites" alt="Typing Animation" />
-      </div>
-    </foreignObject>
-  </svg>
+      </td>
+    </tr>
+  </table>
 </p>
+
+<!-- Add this CSS for animation (if your platform supports it) -->
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 
 
