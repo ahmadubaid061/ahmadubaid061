@@ -50,7 +50,7 @@ I enjoy turning ideas into digital experiences and continuously improving my ski
   
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadubaid061&theme=dracula" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadubaid061&theme=dracula" />
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadubaid061&theme=dracula" /> -->
   
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadubaid061&theme=dracula&utcOffset=8" />
   <br/>
