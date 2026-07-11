@@ -88,22 +88,6 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 ---
 
 <!-- ================================================================== -->
-<!--  FEATURED PROJECTS                                                  -->
-<!-- ================================================================== -->
-
-## <img src="https://img.shields.io/badge/-03-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Featured Projects
-
-<div align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadubaid061&repo=Advance_Python&theme=dracula&hide_border=true" width="48%"/>
-
-</div>
-
-
----
-
-<!-- ================================================================== -->
 <!--  GITHUB STATISTICS                                                  -->
 <!-- ================================================================== -->
 
@@ -186,12 +170,6 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ahmadubaid061&style=for-the-badge&color=00D4FF&labelColor=0D1B2A" alt="Profile Views"/>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0D1B2A&height=100&section=footer" width="100%"/>
 
