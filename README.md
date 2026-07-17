@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Node.js+%7C+Express.js+Learner;Full-Stack+Developer+in+Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Python+%7C+Flask+Learner;Full-Stack+Developer+in+Progress" />
 
 </div>
 
@@ -27,8 +27,8 @@ I'm a **Web Development** student pursuing a **BS in Computer Science**, focused
 I enjoy turning ideas into real digital experiences and constantly sharpening my craft. My goal is to grow into a well-rounded **full-stack developer** and contribute to products that actually matter.
 
 - 🎓 Currently pursuing **BS Computer Science** (2024 – 2028)
-- 🌱 Currently strengthening **Advanced Python**, **Express.js**, and **Flask**
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js**
+- 🌱 Currently strengthening **Advanced Python** and **Flask**
+- 💬 Ask me about **HTML, CSS, JavaScript,Python**
 - 📫 Reach me at **ahmadubaidedu@gmail.com**
 
 <br clear="right"/>
