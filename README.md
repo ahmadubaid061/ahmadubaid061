@@ -27,7 +27,7 @@ I'm a **Web Development** student pursuing a **BS in Computer Science**, focused
 I enjoy turning ideas into real digital experiences and constantly sharpening my craft. My goal is to grow into a well-rounded **full-stack developer** and contribute to products that actually matter.
 
 - 🎓 Currently pursuing **BS Computer Science** (2024 – 2028)
-- 🌱 Currently strengthening **Advanced Python** and **Flask**
+- 🌱 Currently strengthening **ExpressJs**, **Advanced Python** and **Flask**
 - 💬 Ask me about **HTML, CSS, JavaScript,Python**
 - 📫 Reach me at **ahmadubaidedu@gmail.com**
 
