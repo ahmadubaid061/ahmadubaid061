@@ -117,7 +117,7 @@ gantt
     Search Engine Optimization :a4, 2024-06, 2024-10
     Web Development             :a5, 2025-03, 2025-07
     Advanced Python              :a6, 2026-02, 2026-07
-    Express.js                   :active, a7, 2026-06, 2026-08
+    Flutter(Dart)                 :active, a7, 2026-08, 2026-11
     Flask (Python)                :active, a8, 2026-07, 2026-08
 
     section Internships
