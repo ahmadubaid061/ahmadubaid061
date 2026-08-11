@@ -118,7 +118,7 @@ gantt
     Web Development             :a5, 2025-03, 2025-07
     Advanced Python              :a6, 2026-02, 2026-07
     Flutter(Dart)                 :active, a7, 2026-08, 2026-11
-    Flask (Python)                :active, a8, 2026-07, 2026-08
+    Flask (Python)                :active, a8, 2026-07, 2026-09
 
     section Internships
     JS Intern            :a9, 2025-06, 2025-09
