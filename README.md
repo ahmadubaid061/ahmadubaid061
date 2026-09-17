@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0D1B2A&height=180&section=header&text=Ubaid%20Ahmad&fontSize=48&fontColor=00D4FF&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20BS%20Computer%20Science&descAlignY=58&descSize=16&descColor=8892B0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:0D1B2A&height=180&section=header&text=Ubaid%20Ahmad&fontSize=48&fontColor=00D4FF&fontAlignY=40&desc=Backend%20Developer%20%7C%20AppSec%20Enthusiast%20%7C%20BS%20Computer%20Science&descAlignY=58&descSize=16&descColor=8892B0&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=BS+Computer+Science+Student;Website+Developer;Building+User-Friendly+Sites;Python+%7C+Flask+Developer;Full-Stack+Developer+in+Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=BS+Computer+Science+Student;Backend+%2F+Flask+Developer;Building+Secure-by-Design+Apps;Python+%7C+Flask+%7C+PostgreSQL;Diving+into+Application+Security" />
 
 </div>
 
@@ -22,14 +22,14 @@
 
 <img align="right" width="290" src="https://raw.githubusercontent.com/ahmadubaid061/ahmadubaid061/main/assets/coding.gif" alt="" onerror="this.style.display='none'"/>
 
-I'm a **Web Development** student pursuing a **BS in Computer Science**, focused on building clean, responsive, and user-friendly websites.
+I'm a **Computer Science** student focused on **backend development** and **application security**. I build full-stack Flask applications with proper authentication, data modeling, and secure-by-design practices — and I'm currently deepening my **data structures & algorithms** and **AppSec fundamentals** ahead of a security-engineering-focused internship search.
 
-I enjoy turning ideas into real digital experiences and constantly sharpening my craft. My goal is to grow into a well-rounded **full-stack developer** and contribute to products that actually matter.
-
-- 🎓 Currently pursuing **BS Computer Science** (2024 – 2028)
-- 🌱 Currently strengthening **AI** and **Flask**
-- 💬 Ask me about **HTML, CSS, JavaScript,Python**
+- 🎓 BS Computer Science, Sir Syed CASE Institute of Technology, Islamabad (2024 – Present) — 6th Semester, CGPA 3.55/4.0
+- 🔐 Currently strengthening **Application Security Fundamentals** and **DSA**
+- 🛠️ Building with **Flask, Flask-SQLAlchemy, Flask-Login, PostgreSQL**
+- 💬 Ask me about **Python, Flask, Secure Authentication Design, JavaScript, C++**
 - 📫 Reach me at **ahmadubaidedu@gmail.com**
+- 🌐 Portfolio: **ahmadubaid.vercel.app**
 
 <br clear="right"/>
 
@@ -47,28 +47,30 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
-**Frontend**
+**Web & Backend**
 <br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
-**Backend & Frameworks**
+**Core Concepts**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1B2A?style=for-the-badge&color=00D4FF" />
+<img src="https://img.shields.io/badge/OOP-0D1B2A?style=for-the-badge&color=00D4FF" />
+<img src="https://img.shields.io/badge/AppSec_Fundamentals-0D1B2A?style=for-the-badge&color=00D4FF" />
+<img src="https://img.shields.io/badge/Secure_Auth_Design-0D1B2A?style=for-the-badge&color=00D4FF" />
 
 </td>
 </tr>
@@ -91,9 +93,52 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 
 <img src="https://streak-stats.demolab.com/?user=ahmadubaid061&theme=dracula&hide_border=true&background=0D1B2A" alt="GitHub Streak"/>
 
-
-
 </div>
+
+---
+
+<!-- ================================================================== -->
+<!--  FEATURED PROJECTS                                                  -->
+<!-- ================================================================== -->
+
+## <img src="https://img.shields.io/badge/-04-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗓️ Habit & Mood Dashboard
+Full-stack Flask app tracking five daily metrics (mood, sleep, water intake, exercise, study time) with email-token account verification and per-user data isolation. Generates plain-English correlation insights with Pandas once a user has logged 7+ days, visualized with Chart.js.
+
+**Stack:** Flask · Flask-Login · Flask-Mail · Flask-WTF · PostgreSQL (Neon) · SQLAlchemy + Migrate · Pandas · Chart.js · Vercel
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Kameti / ROSCA Committee Manager
+Designed a 7-table relational schema (Admin, Cycle, Member, Payment, Payout, TrustedDevice, LoginVerification) enforcing business rules — one payout per member per cycle, auto-cycle-completion — at the route level. Device-trust login flow with hashed, time-limited 6-digit email verification codes and secure long-lived cookies. Currency stored as integer cents to eliminate rounding errors.
+
+**Stack:** Flask (app factory) · Flask-SQLAlchemy · Flask-WTF · Flask-Login · Flask-Mail · Flask-Migrate · Turso (libSQL) · Render
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ MONARK — Fashion E-Commerce Platform
+Fashion e-commerce site spanning 5 product categories with real-time search, size/quantity selection, and a persistent shopping cart. Firebase-backed admin dashboard with full CRUD product management, order and contact-message visibility, secured with Firebase Authentication.
+
+**Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 More on the way
+Currently building out AppSec-focused projects and sharpening DSA fundamentals — more repos dropping soon.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -101,7 +146,7 @@ I enjoy turning ideas into real digital experiences and constantly sharpening my
 <!--  CAREER TIMELINE & CURRENT LEARNING                                 -->
 <!-- ================================================================== -->
 
-## <img src="https://img.shields.io/badge/-04-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Career Timeline
+## <img src="https://img.shields.io/badge/-05-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Career Timeline
 
 ```mermaid
 gantt
@@ -110,25 +155,22 @@ gantt
     axisFormat  %Y
 
     section Education
-    Matriculation (SSC)      :a1, 2018-03, 2020-06
-    Intermediate (HSSC)      :a2, after a1, 2022-10
-    BS Computer Science      :active, a3, 2024-02, 2028-02
+    Intermediate (Pre-Medical) :a1, 2020-01, 2022-06
+    BS Computer Science         :active, a2, 2024-02, 2028-02
 
     section Short Courses
-    Search Engine Optimization :a4, 2024-06, 2024-10
-    Web Development             :a5, 2025-03, 2025-07
-    Advanced Python              :a6, 2026-02, 2026-07
-    AI Python                    :active, a7, 2026-06, 2026-12
-    Flask (Python)                :active, a8, 2026-07, 2026-09
+    Web Development (NAVTTC)   :a3, 2025-03, 2025-06
+    Advanced Python (Udemy)     :a4, 2025-09, 2026-01
+    AI-Python (dgSkills)         :active, a5, 2026-02, 2026-08
 
     section Internships
-    JS Intern            :a9, 2025-06, 2025-09
-    Web Developer         :a10, 2025-12, 2026-02
+    JavaScript Intern — SAIF SOFTY TECH :a6, 2025-07, 2025-09
+    Web Development Intern — The Consultants by SGC :a7, 2026-02, 2026-03
 ```
 
 <div align="center">
 
-**Currently learning:** ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Advanced_Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Currently learning:** ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0D1B2A?style=flat-square&color=00D4FF) ![AppSec](https://img.shields.io/badge/Application_Security-0D1B2A?style=flat-square&color=00D4FF)
 
 </div>
 
@@ -138,17 +180,20 @@ gantt
 <!--  CONTACT                                                            -->
 <!-- ================================================================== -->
 
-## <img src="https://img.shields.io/badge/-05-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Let's Connect
+## <img src="https://img.shields.io/badge/-06-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Let's Connect
 
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and opportunities.
+I'm always open to interesting conversations, collaborations, and internship opportunities in backend development and application security.
 
 <a href="https://www.linkedin.com/in/ubaid-ahmad061">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://wa.me/923428994095">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://ahmadubaid.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio">
+</a>
+<a href="mailto:ahmadubaidedu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
