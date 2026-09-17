@@ -95,53 +95,6 @@ I'm a **Computer Science** student focused on **backend development** and **appl
 
 </div>
 
----
-
-<!-- ================================================================== -->
-<!--  FEATURED PROJECTS                                                  -->
-<!-- ================================================================== -->
-
-## <img src="https://img.shields.io/badge/-04-0D1B2A?style=flat-square&labelColor=0D1B2A&color=00D4FF"/> Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗓️ Habit & Mood Dashboard
-Full-stack Flask app tracking five daily metrics (mood, sleep, water intake, exercise, study time) with email-token account verification and per-user data isolation. Generates plain-English correlation insights with Pandas once a user has logged 7+ days, visualized with Chart.js.
-
-**Stack:** Flask · Flask-Login · Flask-Mail · Flask-WTF · PostgreSQL (Neon) · SQLAlchemy + Migrate · Pandas · Chart.js · Vercel
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 Kameti / ROSCA Committee Manager
-Designed a 7-table relational schema (Admin, Cycle, Member, Payment, Payout, TrustedDevice, LoginVerification) enforcing business rules — one payout per member per cycle, auto-cycle-completion — at the route level. Device-trust login flow with hashed, time-limited 6-digit email verification codes and secure long-lived cookies. Currency stored as integer cents to eliminate rounding errors.
-
-**Stack:** Flask (app factory) · Flask-SQLAlchemy · Flask-WTF · Flask-Login · Flask-Mail · Flask-Migrate · Turso (libSQL) · Render
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ MONARK — Fashion E-Commerce Platform
-Fashion e-commerce site spanning 5 product categories with real-time search, size/quantity selection, and a persistent shopping cart. Firebase-backed admin dashboard with full CRUD product management, order and contact-message visibility, secured with Firebase Authentication.
-
-**Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · Firebase (Firestore, Auth, Hosting)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 More on the way
-Currently building out AppSec-focused projects and sharpening DSA fundamentals — more repos dropping soon.
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ================================================================== -->
 <!--  CAREER TIMELINE & CURRENT LEARNING                                 -->
 <!-- ================================================================== -->
